@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASAD072021
+- 👋 Hi, I’m @mdaltamash
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
